@@ -14,9 +14,9 @@ In this project a lot of results were obtained, here's an explanation:
 
   
 1. averageResults
-  * raw: ranking of the countries with best average at solving Cubes
-  * withCount: also has the info of the numbers of Competitors of each country
-  * withoutSmallCountries: it excludes countries with less than 10 persons.
+... 1. raw: ranking of the countries with best average at solving Cubes
+... 2. withCount: also has the info of the numbers of Competitors of each country
+... 3. withoutSmallCountries: it excludes countries with less than 10 persons.
 
 2. orderByAmount: rank of countries with most competitors
 3. competitiveAverageResults: rank of the countries with best Average excluding solving times grower than 30 sec.
