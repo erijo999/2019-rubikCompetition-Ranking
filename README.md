@@ -3,9 +3,9 @@
 
 Members:
 
-*Pablo Aliaga
-*Eric Jonsson
-*Erick Lemus
+* Pablo Aliaga
+* Eric Jonsson
+* Erick Lemus
 
 For our project we wanted to rank countries according to how good they are at solving rubik Cubes.
 To achieve that we use a data-set from [World Cube Association data sets](https://www.worldcubeassociation.org/results/misc/export.html)
