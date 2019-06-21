@@ -2,6 +2,7 @@
 ## Finding the best country at solving Rubik's Cube 3x3x3!
 
 Members:
+
 *Pablo Aliaga
 *Eric Jonsson
 *Erick Lemus
