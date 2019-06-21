@@ -12,15 +12,11 @@ To achieve that we use a data-set from [World Cube Association data sets](https:
 
 In this project a lot of results were obtained, here's an explanation:
 
-Markup : 1. A numbered list
-              1. A nested numbered list
-              2. Which is numbered
-          2. Which is numbered
   
-  1. averageResults
-  1. raw: ranking of the countries with best average at solving Cubes
-  2. withCount: also has the info of the numbers of Competitors of each country
-  3. withoutSmallCountries: it excludes countries with less than 10 persons.
+1. averageResults
+  * raw: ranking of the countries with best average at solving Cubes
+  * withCount: also has the info of the numbers of Competitors of each country
+  * withoutSmallCountries: it excludes countries with less than 10 persons.
 
 2. orderByAmount: rank of countries with most competitors
 3. competitiveAverageResults: rank of the countries with best Average excluding solving times grower than 30 sec.
